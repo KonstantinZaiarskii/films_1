@@ -1,7 +1,7 @@
 {
 	"name": "spa_films",
 	"version": "0.1.0",
-	"homepage": "https://konstantinzaiarskii.github.io/spa_films/",
+	"homepage": "https://konstantinzaiarskii.github.io/films_1/",
 	"private": true,
 	"dependencies": {
 		"@emotion/react": "^11.6.0",
